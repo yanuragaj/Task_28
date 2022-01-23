@@ -1,0 +1,6 @@
+piVersion: v2
+name: keras-env
+description: A Helm chart for keras-ready-env in k8s
+type: application
+version: 0.0.1
+appVersion: 1.1.0

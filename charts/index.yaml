@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  keras-env:
+  - apiVersion: v1
+    appVersion: 1.1.0
+    created: "2022-01-23T17:52:10.105465513Z"
+    description: A Helm chart for keras-ready-env in k8s
+    digest: 2c0cc254d67f1280fa6f551e4017a38c9a55afdc29c01d52ab3ef50760b81128
+    name: keras-env
+    type: application
+    urls:
+    - keras-env-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-01-23T17:52:10.105046127Z"
