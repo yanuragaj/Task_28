@@ -18,7 +18,7 @@ spec:
         app: keras-ready-env
     spec:
       containers:
-      - image: yanuragaj/dietpred:v3
+      - image: yanuragaj/dietpred:v4
         name: dietpred
         resources: {}
 status: {}
